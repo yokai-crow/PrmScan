@@ -21,7 +21,7 @@
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/permission-scanner.git
+git clone https://github.com/yokai-crow/PrmScan.git
 cd permission-scanner
 ```
 
@@ -114,7 +114,7 @@ If you'd like to contribute to this project, feel free to fork it, make your cha
 2. **Clone** your forked repository locally:
 
    ```bash
-   git clone https://github.com/yourusername/permission-scanner.git
+   git clone https://github.com/yokai-crow/PrmScan.git
    ```
 
 3. **Create a new branch** for your changes:
